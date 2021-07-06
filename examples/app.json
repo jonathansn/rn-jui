@@ -1,0 +1,12 @@
+{
+  "name": "core-components",
+  "displayName": "core-components",
+  "expo": {
+    "name": "core-components",
+    "slug": "core-components",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

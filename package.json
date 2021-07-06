@@ -1,0 +1,23 @@
+{
+  "name": "rn-jui",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
+  "author": "Jonathan SN <jonathanjsn@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --project ./tsconfig.json"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.13",
+    "@types/react-dom": "^17.0.8",
+    "@types/react-native": "^0.64.10"
+  }
+}
